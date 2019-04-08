@@ -1,16 +1,9 @@
 # bluetooth
 
-A new Flutter project.
+Flutter调用原生蓝牙api实现检测蓝牙状态和打开蓝牙
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+具体的代码分析请到  https://blog.csdn.net/qq_35905501/article/details/89080537 学习
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+要是这份代码给你一些帮助，请给我一个Star,编写不易
